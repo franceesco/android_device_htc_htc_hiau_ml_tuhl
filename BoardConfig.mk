@@ -59,6 +59,6 @@ TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
 TW_NO_EXFAT_FUSE := true
 TW_NO_EXFAT := true
 #Cn theme
-TW_CUSTOM_THEME := device/htc/htc_hiau_ml_tuhl/recovery/twres-cn
+TW_CUSTOM_THEME := device/htc/htc_hiau_ml_tuhl/recovery/twres-en
 TW_EXCLUDE_SUPERSU := true
 
