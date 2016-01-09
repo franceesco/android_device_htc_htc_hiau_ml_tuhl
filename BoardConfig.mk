@@ -41,7 +41,7 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/class/android_usb/android0/f_mass_storag
 COMMON_GLOBAL_CFLAGS += -DNO_SECURE_DISCARD
 
 # TWRP specific build flags
-RECOVERY_VARIANT := twrp
+#RECOVERY_VARIANT := twrp
 #TWRP_EVENT_LOGGING := true
 TW_NO_SCREEN_BLANK := true
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone1/temp
